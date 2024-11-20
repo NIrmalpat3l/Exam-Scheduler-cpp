@@ -1,6 +1,5 @@
 # [Exam Scheduling Tool](https://nirmalpat3l.github.io/Exam-Scheduler-cpp/)
 
------
 ## Live at [Click Hear](https://nirmalpat3l.github.io/Exam-Scheduler-cpp/)
 
 ## Overview
