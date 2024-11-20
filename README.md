@@ -1,7 +1,5 @@
 # [Exam Scheduling Tool](https://nirmalpat3l.github.io/Exam-Scheduler-cpp/)
 
-## Live at [Click Hear](https://nirmalpat3l.github.io/Exam-Scheduler-cpp/)
-
 ## Overview
 
 This tool is designed to efficiently schedule exams by assigning them to rooms and time slots. The system ensures that exams with common students are not scheduled at the same time and that rooms have sufficient capacity for the number of students.
@@ -52,6 +50,8 @@ The backend C++ code uses a backtracking approach to assign exams to rooms and t
 - **script.js**: Implements the logic for handling form submissions, generating schedules, and updating the UI dynamically.
 - **styles.css**: Provides styling for the layout and elements on the page.
 - **Exam-Scheduler.cpp**: The C++ backend that implements the conflict detection and scheduling algorithm.
+
+## Live at [Click Hear](https://nirmalpat3l.github.io/Exam-Scheduler-cpp/)
 
 ## Conclusion
 
